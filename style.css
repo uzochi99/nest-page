@@ -1384,10 +1384,10 @@ display: flex;
     background-color: rgb(249, 249, 242);
     box-shadow: 1px 1px 3px;
     height: 100px;
-    /* position: fixed;
-   top: 30px;
+    position: fixed;
+   top: 0px;
    left: 0px;
-   right: 0px; */
+   right: 0px;
 }
 
 
@@ -2226,10 +2226,7 @@ display: flex;
     font-size: 30px;
     /* margin-right: 50px; */
 }
-.big-1{
-    font-size: 30px;
-    margin-left: 50px;
-}
+
 .nest{
     width: 250px;
 }
@@ -2269,7 +2266,7 @@ display: flex;
 } */
 .c11{
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 60px;
 }
 .best{
     width:50px;
@@ -2283,5 +2280,13 @@ display: flex;
    display: none;
   
 }
+.c1ai{
+ margin-left: 50px;
+}
+.big1a{
+font-size: 30px;
+margin-left: 30pxg;
+}
+
 
 }
